@@ -1,0 +1,10 @@
+{
+ "jmdict": "2026-09-22",
+ "words": 30200,
+ "senses": 46920,
+ "kanji": 10350,
+ "unsure_glosses": 1595,
+ "models": [
+  "mt:claude-sonnet-5"
+ ]
+}
