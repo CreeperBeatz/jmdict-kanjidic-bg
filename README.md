@@ -1,17 +1,17 @@
 # jmdict-kanjidic-bg
 
 **Bulgarian glosses for JMdict and KANJIDIC: 30,200 common Japanese words and
-10,350 kanji, machine-translated from the English.**
+10,350 kanji, machine-translated from English.**
 
-As far as we know, this is the first open Japanese–Bulgarian dictionary data. It was made for
+As far as I know, this is the first open Japanese–Bulgarian dictionary data. It was made for
 [Better Kanji Dictionary](https://betterkanjidictionary.org), where Bulgarian
 speakers can search in Cyrillic (or шльокавица) and read the glosses under
 each word, and it is published here so that anyone can use it.
 
-> **Японско-български речникови данни**, машинно преведени от английските
-> значения на JMdict и KANJIDIC: 30 200 често срещани думи и 10 350 йероглифа.
-> Преводът не е проверен от човек. Свободен лиценз CC BY-SA 4.0. Има и речник
-> за [Yomitan](https://yomitan.wiki) (виж [Releases](../../releases)).
+**Японско-български речникови данни**, машинно преведени от английските
+значения на JMdict и KANJIDIC: 30 200 често срещани думи и 10 350 йероглифа.
+Преводът не е проверен от човек. Свободен лиценз CC BY-SA 4.0. Има и речник
+за [Yomitan](https://yomitan.wiki) (виж [Releases](../../releases)).
 
 | | count |
 |---|---|
