@@ -20272,7 +20272,7 @@ jmdict_id	sense	headword	reading	pos	en	bg
 1639040	1	軸足	じくあし	n	emphasis | priority | focus	акцент | приоритет | фокус
 1644510	0	理容	りよう	n	barbering | haircutting | hairdressing	бръснарство | фризьорство
 1647290	0	質実	しつじつ	adj-na,n	simplicity | plainness	простота | скромност
-1651060	0	字書	じしょ	n	dictionary of Chinese characters | kanji dictionary	речник на йероглифите | кандзи речник
+1651060	0	字書	じしょ	n	dictionary of Chinese characters | kanji dictionary	речник на йероглифите | канджи речник
 1651060	1	字書	じしょ	n	dictionary	речник
 1656800	0	宿営	しゅくえい	n,vs,vi	billeting | camp	настаняване на войски | лагер
 1657070	0	水圧	すいあつ	n	water pressure | hydraulic pressure	водно налягане | хидравлично налягане
@@ -28883,7 +28883,7 @@ jmdict_id	sense	headword	reading	pos	en	bg
 1654300	0	専有	せんゆう	n,vs,vt	exclusive possession | sole ownership | monopoly	изключително владение | монопол
 1654530	0	勝ち取る	かちとる	v5r,vt	to win | to achieve | to gain | to obtain | to secure	печеля | спечелвам | извоювам
 1655150	0	野営	やえい	n,vs,vi	camping | campground | making camp	къмпингуване | лагеруване | бивак
-1655450	0	漢和辞典	かんわじてん	n	dictionary with Japanese definitions of kanji and kanji compounds | kanji dictionary	йероглифен речник кандзи-японски | речник на кандзи
+1655450	0	漢和辞典	かんわじてん	n	dictionary with Japanese definitions of kanji and kanji compounds | kanji dictionary	йероглифен речник канджи-японски | речник на канджи
 1655680	0	処方箋	しょほうせん	n	prescription	рецепта
 1656690	0	焦眉	しょうび	n	emergency | urgency | imminence	неотложност | спешност
 1657020	0	船着き場	ふなつきば	n	harbour | harbor | landing place | wharf | anchorage	пристан | кей | пристанище
